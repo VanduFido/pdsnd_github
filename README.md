@@ -8,8 +8,7 @@ it is aimed to achieve understanding of Version Control with Git.
 Explore US Bikeshare data
 
 ### Description
-This Project was completed as part of the core curriculum for an Udacity Nanodegree.
-It explores US bikeshare data, providing an interactive program where users can explore the data in a personalized way.
+This project explores US bikeshare data, providing an interactive program where users can explore the data in a personalized way.
 
 ### Files used
 bikeshare.py
